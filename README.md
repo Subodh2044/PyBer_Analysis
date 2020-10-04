@@ -18,6 +18,9 @@ Result of the ride sharing summary shows that the total rides taken in urban are
 **Multiple Line Chart**
 
 When we analyze the data by the sum of the fares for each city type on weekly basis and plot it in the multiple line graph for comparison, it shows that during first week of January the sum of fares is lowest for all city type which I think can be attribute to the weather. Since it's winter people do not want to commute a lot. As the  months progresses the sum of fares starts to pick up and but is volatile of for urban in end of Febrauray to end of March. The sum of fares plummets from end of February to first week of March and remains steady for suburban and rural city type but sales make "V" shaped recovery after every other week. 
+![image](https://user-images.githubusercontent.com/67131400/95024613-c4427100-0649-11eb-870f-27a44adf6ea5.png)
+
+
 
 # Recommendations
 
