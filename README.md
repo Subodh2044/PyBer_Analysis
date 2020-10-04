@@ -16,6 +16,7 @@ Result of the ride sharing summary shows that the total rides taken in urban are
 When we analyze the data by the sum of the fares for each city type on weekly basis and plot it in the multiple line graph for comparison, it shows that during first week of January the sum of fares is lowest for all city type which I think can be attribute to the weather. Since it's winter people do not want to commute a lot. As the  months progresses the sum of fares starts to pick up and but is volatile of for urban in end of Febrauray to end of March. The sum of fares plummets from end of February to first week of March and remains steady for suburban and rural city type but sales make "V" shaped recovery after every other week. 
 
 **Recommendations**
+
 On base of the result from both summary dataframe and multiple line plots of weekly total fare by city type, I would make a recommendation to the CEO to provide promotion to the suburban and city type because total number of drivers in urban and suburban city type accounts for only 3% and 16% of the total whereas total fares accounts for rural and suburban city types accounts for 7% and 30% respectively. To me this shows that price of a ride is higher in rural and suburban. So, promotions whould give incentive for riders to take ride without impacting drivers.
 
 Another recommendation I would make is adapt more dynamic pricing competitive to the competitors which will increase the fare thus increase the earnings for the drivers and increase the profit for the company simultaneously.
