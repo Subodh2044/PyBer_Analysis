@@ -12,10 +12,15 @@ After computing all of the following above, the next purpose of this analysis is
 **Ride-Sharing Summary Dataframe**
 
 Result of the ride sharing summary shows that the total rides taken in urban area is disproportionally higher then suburban and rural. This explains why there are less drivers count in rural and suburban in comparison to the urban driver count and total fares. However, if we look at average fare per ride and average fare per driver for all three city type, it is significantly lower in urban in comparison to the rest two city types which I beleive is because of the number of drivers and total rides.
+![image](https://user-images.githubusercontent.com/67131400/95024509-0b7c3200-0649-11eb-9052-6098f5446171.png)
+
 
 **Multiple Line Chart**
 
 When we analyze the data by the sum of the fares for each city type on weekly basis and plot it in the multiple line graph for comparison, it shows that during first week of January the sum of fares is lowest for all city type which I think can be attribute to the weather. Since it's winter people do not want to commute a lot. As the  months progresses the sum of fares starts to pick up and but is volatile of for urban in end of Febrauray to end of March. The sum of fares plummets from end of February to first week of March and remains steady for suburban and rural city type but sales make "V" shaped recovery after every other week. 
+![image](https://user-images.githubusercontent.com/67131400/95024613-c4427100-0649-11eb-870f-27a44adf6ea5.png)
+
+
 
 # Recommendations
 
